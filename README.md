@@ -1,4 +1,3 @@
-🔐 Password Analyzer & Data Analytics Tool
 This is a Python project built during my 1st semester of BCA (Data Science & Cyber Security).
 
 🚀 Features
